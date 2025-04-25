@@ -25,18 +25,19 @@ Foram analisadas diversas métricas para cada loja, como:
 - **Avaliações dos clientes**
 - **Produtos mais vendidos**
 - **Frete médio**
+- **Análise geográfica**
 
 ### 2. Visualização dos Dados
 
-Para uma comunicação visual clara e objetiva dos insights encontrados, foram criados gráficos utilizando a biblioteca `Matplotlib`, incluindo pelo menos:
+Para uma comunicação visual clara e objetiva dos insights encontrados, foram criados gráficos utilizando a biblioteca `Matplotlib` e `Seaborn`, incluindo pelo menos:
 
 - Gráficos de **barras**
-- Gráficos de **pizza**
+- Gráficos de **HeatMap**
 - Gráficos de **dispersão**
 
 ### 3. Recomendação Final
 
-Com base nas análises e visualizações, foi elaborado um texto explicando qual loja o Senhor João deve vender e **os motivos da escolha**, de forma clara e fundamentada.
+Com base nas análises e visualizações, foi elaborado um seção `Relatório` dentro do arquivo `ChallengeAluraStore.ipynb` explicando qual loja o Senhor João deve vender e **os motivos da escolha**, de forma clara e fundamentada nos dados.
 
 ---
 
@@ -44,22 +45,16 @@ Com base nas análises e visualizações, foi elaborado um texto explicando qual
 
 Neste projeto, pratiquei habilidades importantes em análise de dados, como:
 
-- 📥 Carregamento e manipulação de dados CSV com `pandas`
-- 📈 Criação de visualizações com `matplotlib`
-- 📊 Interpretação de métricas de desempenho de vendas e avaliações
+- 📥 Carregamento e manipulação de dados CSV com `pandas`;
+- 📥 Organização do notebook para melhor visualização;
+- 📈 Criação de visualizações com `matplotlib`;
+- 📊 Interpretação de métricas de desempenho de vendas e avaliações.
 
 ---
 
 ## 🚀 Resultado
 
-Ao final do projeto, foi possível identificar **qual loja apresenta menor eficiência** com base em dados reais do negócio fictício, oferecendo uma recomendação sólida e confiável para apoiar a tomada de decisão do Senhor João.
-
----
-
-## 📁 Estrutura do Projeto
-
-Em construção
-
+Ao final do projeto, foi possível identificar **qual loja apresenta menor eficiência** com base em dados reais do negócio fictício, oferecendo uma recomendação sólida a partir de dados para ajudar na tomada de decisão do Senhor João.
 
 ---
 
