@@ -48,7 +48,7 @@ Neste projeto, pratiquei habilidades importantes em análise de dados, como:
 - 📥 Carregamento e manipulação de dados CSV com `pandas`;
 - 📥 Organização do notebook para melhor visualização;
 - 📈 Criação de visualizações com `matplotlib`;
-- 📊 Interpretação de métricas de desempenho de vendas e avaliações,
+- 📊 Interpretação de métricas de desempenho de vendas e avaliações.
 
 ---
 
